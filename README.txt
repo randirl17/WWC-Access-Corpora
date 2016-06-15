@@ -1,0 +1,1 @@
+﻿NLP Series: Accessing Text CorporaBased on Natural Language Processing with Python by Steven Bird, Ewan Klein & Edward LoperO’Reilly
